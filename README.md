@@ -8,9 +8,9 @@ Currently, saying YES to great opportunities, and Seeking to leverage my technic
 
 📫 you can find me at 
 
-Gmail:sangramlembe9696@gmail.com
+Gmail:  sangramlembe9696@gmail.com
 
-And making connections on LinkedIn:https://www.linkedin.com/in/sangram-lembe-56262320a/
+And making connections on LinkedIn:  https://www.linkedin.com/in/sangram-lembe-56262320a/
 
 <!--
 **SANGRAMLEMBE/SANGRAMLEMBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
