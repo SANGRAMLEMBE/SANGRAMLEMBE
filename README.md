@@ -1,4 +1,4 @@
-![logo]([https://github.com/RutikGawali1/RutikGawali1/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png](https://www.linkedin.com/in/sangram-lembe-56262320a/))
+![logo]([https://github.com/RutikGawali1/RutikGawali1/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png])
 
 <h1 align="center">Hi 👋, I'm Sangram Lembe</h1>
 
