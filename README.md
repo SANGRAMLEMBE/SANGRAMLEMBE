@@ -1,19 +1,19 @@
 ![logo](https://github.com/RutikGawali1/RutikGawali1/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Rutik Gawali</h1>
+<h1 align="center">Hi 👋, I'm Sangram Lembe</h1>
 
-<p align="left"> <a href="https://twitter.com/rutikgawali" target="blank"><img src="https://img.shields.io/twitter/follow/rutikgawali?logo=twitter&style=for-the-badge" alt="rutikgawali" /></a> </p>
+<p align="left"> <a href="https://x.com/sangram_27" target="blank"><img src="https://img.shields.io/twitter/follow/rutikgawali?logo=twitter&style=for-the-badge" alt="rutikgawali" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [ruitkgawali.me](ruitkgawali.me)
 
-- 📫 How to reach me **rutikgawali1@gmail.com**
+- 📫 How to reach me **sangramlembe9696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rutikgawali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutikgawali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rutik-gawali-aa6674207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutik-gawali-aa6674207" height="30" width="40" /></a>
+<a href="https://x.com/sangram_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangramlembe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sangram-lembe-56262320a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram-lembe-56262320a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rutikgawali101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rutikgawali101" height="30" width="40" /></a>
 </p>
 
@@ -23,9 +23,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Rutik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rutik" /></a></p><br><br>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutikgawali1&show_icons=true&locale=en&layout=compact" alt="rutikgawali1" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANGRAMLEMBE&show_icons=true&locale=en&layout=compact" alt="SANGRAMLEMBE" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&locale=en" alt="rutikgawali1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SANGRAMLEMBE&show_icons=true&locale=en" alt="SANGRAMLEMBE" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rutikgawali1&" alt="rutikgawali1" /></p>
 ###
