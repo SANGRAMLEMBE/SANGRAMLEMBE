@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SANGRAMLEMBE&show_icons=true&locale=en" alt="SANGRAMLEMBE" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rutikgawali1&" alt="SANGRAMLEMBE" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SANGRAMLEMBE&" alt="SANGRAMLEMBE" /></p>
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SANGRAMLEMBE&label=Profile%20views&color=0e75b6&style=flat" alt="SANGRAMLEMBE" /> </p>
