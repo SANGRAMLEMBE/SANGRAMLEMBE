@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [ruitkgawali.me](ruitkgawali.me)
+- 👨‍💻 All of my projects are available at [sangram-lembe-portfolio](https://sangram-lembe-portfolio.netlify.app/#)
 
 - 📫 How to reach me **sangramlembe9696@gmail.com**
 
