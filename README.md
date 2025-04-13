@@ -1,5 +1,4 @@
 
-![image ] (https://github.com/SANGRAMLEMBE/background-image/blob/main/github%20background.JPG)
 <h1 align="center">Hi 👋, I'm Sangram Lembe</h1>
 
 <p align="left"> <a href="https://x.com/sangram_27" target="blank"><img src="https://img.shields.io/twitter/follow/SANGRAMLEMBE?logo=twitter&style=for-the-badge" alt="SANGRAMLEMBE" /></a> </p>
