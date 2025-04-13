@@ -1,4 +1,4 @@
-![image](https://github.com/SANGRAMLEMBE/sangram/assets/102941955/c579b651-9b2c-472f-8e7e-a55d018ad093)
+![image](https://github.com/SANGRAMLEMBE/background-image/blob/main/background-image.png)
 
 <h1 align="center">Hi 👋, I'm Sangram Lembe</h1>
 
