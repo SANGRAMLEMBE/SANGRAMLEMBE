@@ -25,7 +25,7 @@
 
 ###
 <h3  align="left"> My stats : </h3>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SANGRAMLEMBE&theme=git-dark&border_radius=5)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SANGRAMLEMBE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>   
